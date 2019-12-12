@@ -1,4 +1,4 @@
-# FENDProject:Restaurant Reviews App
+# FEND Project:Restaurant Reviews App
 
 ## Features
 
